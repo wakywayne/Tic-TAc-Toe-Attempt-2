@@ -1,0 +1,12 @@
+.board{
+    background-color: bisque;
+    height: 305px;
+    width: 305px;
+
+}
+.top-row, .middle-row, .bottom-row{
+    height: 102px;
+    width: 304px;
+    
+
+}
