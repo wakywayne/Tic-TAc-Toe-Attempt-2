@@ -1,12 +1,23 @@
 .board{
     background-color: bisque;
-    height: 305px;
-    width: 305px;
-
+    height: 312px;
+    width: 305px; 
+    border: 1px cornflowerblue;
 }
 .top-row, .middle-row, .bottom-row{
-    height: 102px;
-    width: 304px;
-    
+    height: 105px;
+    width: 306px;
+
+
+}
+.top-left, .top-middle, .top-right , .middle-left, .middle-middle, .middle-right, 
+.bottom-left, .bottom-middle, .bottom-right{
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin: 1px;
+
+    background-color: cornflowerblue;
+    opacity: 100%;
 
 }
