@@ -9,13 +9,11 @@
     height: 105px;
     width: 306px;
 }
-.top-left, .top-middle, .top-right , .middle-left, .middle-middle, .middle-right, 
-.bottom-left, .bottom-middle, .bottom-right{
+.cell{
     height: 100px;
     width: 100px;
     float: left;
     margin: 1px;
     background-color: cornflowerblue;
     opacity: 100%;
-
 }
